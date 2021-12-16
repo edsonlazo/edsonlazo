@@ -1,21 +1,17 @@
-<!--
-**edsonlazo/edsonlazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, What's new? 😎
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://twitter.com/edsonlazo" target="_blank"><img height="30" src="https://raw.githubusercontent.com/edsonlazo/edsonlazo/main/resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/edsonlazo/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/edsonlazo/edsonlazo/main/resources/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://edsonlazo.dev" target="_blank"><img height="30" src="https://raw.githubusercontent.com/edsonlazo/edsonlazo/main/resources/website.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm [Edson Lazo](https://edsonlazo.dev), I'm a software engineer at [Multipago](https://Multipago.com), Previously I worked at [El Deber](https://eldeber.com.bo) where I developed web applications used in the news and communication industry. I also worked at [DATEC](https://datec.com.bo) where i built different kinds of web applications for banks, insurance companies and other industries.
 
-# Edson Lazo
+## About me
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+<details>
+    <summary>📈 My Todoist Stats</summary>
+    <!-- TODO-IST:START -->
+    <!-- TODO-IST:END -->
+</details>
