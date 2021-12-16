@@ -18,7 +18,7 @@ Hi, I'm [Edson Lazo](https://edsonlazo.dev), I'm a software engineer at [Multipa
 - 🌱 I’m currently learning: TDD
 - 🤔 What I want to learn next: How to build applications with react.
 - 📫 How to reach me: hello@edsonlazo.dev
-- 😄 Pronouns: she/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to tour with Bob Dylan 🎸
 
 <br>
