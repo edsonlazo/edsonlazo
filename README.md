@@ -43,8 +43,8 @@ Hi, I'm [Edson Lazo](https://edsonlazo.dev), I'm a software engineer at [Multipa
 <br>
 
 <!-- TODO-IST:START -->
-🏆  6,051 Karma Points           
-🌸  Completed 5 tasks today           
+🏆  6,061 Karma Points           
+🌸  Completed 0 tasks today           
 🗓  Completed 5 tasks this week           
 ✅  Completed 305 tasks so far           
 ⏳  Longest streak is 3 days
